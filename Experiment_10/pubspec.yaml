@@ -1,0 +1,17 @@
+name: experiment_10
+description: "Flutter Lab - Manual User Login Authentication Using Google Firestore Database"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.14.0
+  crypto: ^3.0.3
+
+flutter:
+  uses-material-design: true
